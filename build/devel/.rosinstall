@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kevin/rosbuild_ws/package_dir/RoboticPipeline/build/devel/setup.sh

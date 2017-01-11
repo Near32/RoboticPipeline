@@ -1,0 +1,20 @@
+<package>
+  <description brief="RoboticPipeline">
+
+     RoboticPipeline
+
+  </description>
+  <author>Kevin Denamganaï</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/RoboticPipeline</url>
+  <depend package="roscpp"/>
+  <depend package="image_transport"/>
+  <depend package="std_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="pcl_ros"/>
+  <depend package="pcl_conversions"/>
+
+</package>
+
+
